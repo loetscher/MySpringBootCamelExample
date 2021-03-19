@@ -1,3 +1,6 @@
 /target/
 /.idea/
 /camel.spring.iml
+/.gradle/
+/build/
+/gradle/wrapper/gradle-wrapper.jar
